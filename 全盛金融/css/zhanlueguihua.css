@@ -1,0 +1,185 @@
+.clear:after
+{
+	content: "";
+	display: block;
+	clear: both;
+}
+.zo
+{
+	width: 1366px;
+	height: 1550px;
+	border-bottom: 1px solid #EFEDED;
+}
+.toper
+{
+	height: 200px;
+	width: 100%;
+	line-height: 200px;
+	overflow: hidden;
+	background: url(../img/p-head.png) no-repeat;
+}
+.toper1
+{
+	margin: 50px auto;
+	width: 1300px;
+	height: 75px;
+	background: url(../img/logo.png) no-repeat;
+}
+.h1
+{
+	text-align: center;
+	margin-top: 15px;
+	border-bottom:  3px #4F4745 solid;
+	width: 100px;
+	height: 40px;
+	float: right;
+	line-height: 40px;
+}
+.h1 a
+{
+	color: #4F4745;
+	font-size: 20px;
+}
+.h1:hover
+{
+	border-bottom:  3px #C90613 solid;
+}
+.toper3
+{
+	margin-top: -35px;
+	margin-left: 32px;
+	width: 218px;
+	height:55px;
+	line-height: 55px;
+	text-align: center;
+	color: #E5E5E5;
+}
+.toper3 a
+{
+	color: #E5E5E5;
+}
+.a
+{
+	width: 100%;
+	margin-top:50px;
+	height: 274px;
+	background: url(../img/y.png) no-repeat;
+}
+.a1
+{
+	background: #f9f9f9;
+	width: 930px;
+	height: 274px;
+	margin-left: 432px;
+	overflow: hidden;
+}
+.a11
+{
+	font-size: 16px;
+	font-family: "microsoft yahei";
+	color: #747272;
+
+}
+.a12
+{
+	font-size: 24px;
+	font-family: "microsoft yahei";
+	color: black;
+	margin-right: 0px;
+}
+.a10
+{
+	height: 24px;
+	width: 300px;
+	margin-top: 30px;
+	margin-left: 550px;
+	line-height: 24px;
+}
+.a13
+{
+	margin-left: 80px;
+	display: block;
+	width: 745px;
+	color: #b1b1b1;
+	font-family: "microsoft yahei";
+	font-size: 14px;
+}
+.a14
+{
+	margin-left: 80px;
+	display: block;
+	width: 600px;
+	color: #b1b1b1;
+	font-family: "microsoft yahei";
+	font-size: 14px;
+}
+.hh
+{
+	margin-left:50px; 
+}
+.ee
+{
+	margin-left: 840px;
+}
+.fff
+{
+	margin-left: 700px;
+}
+.b
+{
+	width: 100%;
+	margin-top:50px;
+	height: 274px;
+	background: url(../img/jin.png) no-repeat 95%;
+}
+.b1
+{
+	width: 930px;
+	height: 274px;
+	overflow: hidden;
+}
+.c
+{
+	width: 100%;
+	margin-top:50px;
+	height: 274px;
+	background: url(../img/mima.png) no-repeat;
+}
+.d
+{
+	width: 100%;
+	margin-top:50px;
+	height: 274px;
+	background: url(../img/wu.png) no-repeat 95%;
+}
+.footer
+{
+	height:160px;
+	width: 1366px;
+	background: url(../img/logo1.png) no-repeat center;
+}
+.ff
+{
+	margin-top: 5px;
+	margin-left:650px;
+}
+.tt
+{
+	float: right;
+	margin-right: 28px;
+}
+.foot1
+{
+	overflow: hidden;
+}
+.ft
+{
+	margin-right: 140px;
+	margin-top: 45px;
+	
+}
+.tt a
+{
+	color: #7F7E7F;
+	font-family: "microsoft yahei";
+}

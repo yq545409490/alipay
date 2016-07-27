@@ -1,0 +1,144 @@
+.clear:after
+{
+	content: "";
+	display: block;
+	clear: both;
+}
+.zo
+{
+	width: 1366px;
+	overflow: hidden;
+	height: 2000px;
+	border-bottom: 1px #EFEEEE solid;
+}
+.toper
+{
+	height: 200px;
+	width: 100%;
+	line-height: 200px;
+	overflow: hidden;
+	background: url(../img/p-head.png) no-repeat;
+}
+.toper1
+{
+	margin: 50px auto;
+	width: 1300px;
+	height: 75px;
+	background: url(../img/logo.png) no-repeat;
+}
+.h1
+{
+	text-align: center;
+	margin-top: 15px;
+	border-bottom:  3px #4F4745 solid;
+	width: 100px;
+	height: 40px;
+	float: right;
+	line-height: 40px;
+}
+.h1 a
+{
+	color: #4F4745;
+	font-size: 20px;
+}
+.h1:hover
+{
+	border-bottom:  3px #C90613 solid;
+}
+.toper3
+{
+	margin-top: -35px;
+	margin-left: 32px;
+	width: 218px;
+	height:55px;
+	line-height: 55px;
+	text-align: center;
+	color: #E5E5E5;
+}
+.toper3 a
+{
+	color: #E5E5E5;
+}
+.a
+{
+	width: 530px;
+	margin:50px auto;
+	height: 90px;
+	line-height: 30px;
+}
+.a1
+{
+	font-size: 24px;
+	color: #434343;
+}
+.a2
+{
+	font-size: 14px;
+	color: #3c3c3c;
+}
+.b
+{
+	width: 1200px;
+	margin:0 auto;
+}
+.zi
+{
+	font-size: 14px;
+	color: #9b9b9b;
+	text-indent: 28px;
+}
+.c
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	height: 400px;
+	text-align: center;
+}
+.c1
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	height: 300px;
+	text-align: center;
+}
+.sx
+{
+	width: 1200px;
+	margin:50px auto;
+}
+.sx a
+{
+	font-size: 12px;
+	color: #575757;
+}
+.footer
+{
+	width: 1366px;
+	height:160px;
+	background: url(../img/logo1.png) no-repeat center;
+}
+.ff
+{
+	margin-top: 5px;
+	margin-left:650px;
+}
+.tt
+{
+	float: right;
+	margin-right: 28px;
+}
+.foot1
+{
+	overflow: hidden;
+}
+.ft
+{
+	margin-right: 140px;
+	margin-top: 45px;
+	
+}
+.tt a
+{
+	color: #7F7E7F;
+	font-family: "microsoft yahei";
+}
